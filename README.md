@@ -2,6 +2,7 @@
 An attempt to continue and optimize the exprimental/fp2 branch made by Gegy.
 
 ![Mount Everest](https://i.imgur.com/vDsopTZ.png)
+Mount Everest in its current state. It should work for most if not every other location teleported to.
 
 ## Usage
 Terrarium implements a new world type for this generation. The generation can be customized through a GUI, to adjust settings such as scale or what should generate.
