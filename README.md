@@ -1,7 +1,7 @@
 # FarPlaneTerrarium
 An attempt to continue and optimize the exprimental/fp2 branch made by Gegy.
 
-![Mount Everest (in its current state)(https://i.imgur.com/vDsopTZ.png)
+![Mount Everest](https://i.imgur.com/vDsopTZ.png)
 
 ## Usage
 Terrarium implements a new world type for this generation. The generation can be customized through a GUI, to adjust settings such as scale or what should generate.
