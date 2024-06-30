@@ -5,11 +5,15 @@ An attempt to continue and optimize the exprimental/fp2 branch made by Gegy.
 Mount Everest in its current state. It should work for most if not every other location teleported to.
 
 ## Usage
-Terrarium implements a new world type for this generation. The generation can be customized through a GUI, to adjust settings such as scale or what should generate.
+# THIS ASSUMES YOU HAVE DOWNLOADED THE LINKED FARPLANETWO VERSION AND KNOW HOW TO USE TERRARIUM.
 
-![Customization GUI](https://i.imgur.com/5UpsVpA.png)
+When in the start screen go to Options -> Video Settings -> FP2 options -> Change Render Mode from `voxel` to `heightmap`
 
-GIS data is downloaded as you explore the world, so, depending on internet speed, you may experience lag while this data downloads. The mod does its best to counteract this lag, however. Once a part of the dataset is downloaded, it is cached locally so that it can be loaded again quickly in the future.
+Whilst in the menu, change the Generator Threads from `11` to `1`. This is to ensure the server does NOT lock up. I'm still trying to find a fix to this issue.
+
+As of currently, the mod can only generate 7* LOD Levels. The generation speed will gradually slow down as each lod level is generated.
+
+(*: More LOD levels CAN be generated but will take a VERY long time.)
 
 To navigate to any real-world location, you can make use of the `geotp` command:
 
