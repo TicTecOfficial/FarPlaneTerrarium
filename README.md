@@ -2,7 +2,7 @@
 An attempt to continue and optimize the exprimental/fp2 branch made by Gegy.
 
 ![Mount Everest](https://i.imgur.com/vDsopTZ.png)
-Mount Everest in its current state. It should work for most if not every other location teleported to.
+Mount Everest (1:40) in its current state. It should work for most if not every other location teleported to.
 
 ## Usage
 # THIS ASSUMES YOU HAVE DOWNLOADED THE LINKED FARPLANETWO VERSION AND KNOW HOW TO USE TERRARIUM.
