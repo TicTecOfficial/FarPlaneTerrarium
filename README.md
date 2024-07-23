@@ -12,6 +12,7 @@ When in the start screen go to Options -> Video Settings -> FP2 options -> Chang
 Whilst in the menu, change the Generator Threads from `11` to `1`. This is to ensure the server does NOT lock up. I'm still trying to find a fix to this issue.
 
 As of currently, the mod can only generate 7* LOD Levels. The generation speed will gradually slow down as each lod level is generated.
+(this is due to the current lack of any way to generate OSM data at lower details/resolution, forcing every chunk to be created at its maximum possible detail)
 
 (*: More LOD levels CAN be generated but will take a VERY long time.)
 
